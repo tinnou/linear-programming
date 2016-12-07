@@ -1,4 +1,4 @@
-group 'ezoic'
+group 'lp'
 version '1.0-SNAPSHOT'
 
 apply plugin: 'java'
@@ -12,7 +12,7 @@ jar {
         }
     }
     manifest {
-        attributes 'Main-Class': 'ezoic.ComputerProduction'
+        attributes 'Main-Class': 'lp.ComputerProduction'
     }
 }
 

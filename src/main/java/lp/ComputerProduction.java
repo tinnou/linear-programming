@@ -1,4 +1,4 @@
-package ezoic;
+package lp;
 
 import org.apache.commons.math3.optim.PointValuePair;
 import org.apache.commons.math3.optim.linear.*;
